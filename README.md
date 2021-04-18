@@ -23,7 +23,8 @@ Supported hardware:
 
 * Any final release Intel Xeon E5 V3/V4 CPUs.
 
-* 4 channels RDIMM, LRDIMM, UDIMM DDR4 Memory & DDR3 up to 2400MHz.
+* 4 channels RDIMM, LRDIMM, UDIMM DDR4 Memory up to 2400MHz & DDR3* up to 2133MHz
+(*Only if this type of memory CPU supported).
 
 ## How to update Firmware:
 
