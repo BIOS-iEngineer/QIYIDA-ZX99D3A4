@@ -32,4 +32,4 @@ Supported hardware:
    3) Configure RAM timings & enjoy.
    4) * In some cases, it is required to reset the Power Good signal (Due to the lack of standardization on the part of the motherboard manufacturer)
 
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/ZX99D3A4.PNG" alt="QIYIDA ZX99D3A4 Motherboard BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99D3D4.PNG" alt="QIYIDA ZX99D3A4 Motherboard BIOS" />
