@@ -1,5 +1,5 @@
 # QIYIDA ZX99D3A4
-ZX99D3A4 BIOS for QIYIDA ZX-99D3A4 Motherboard 04/18/2021
+ZX99D3A4.BIN BIOS for QIYIDA ZX-99D3A4 Motherboard 04/18/2021
 
 <a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
@@ -27,7 +27,7 @@ Supported hardware:
 
 ## How to update Firmware:
 
-   1) Burn the Firmware to programmer device. (e.g. EZP-2019)
+   1) Burn the Firmware with programmer device. (e.g. EZP-2019)
    2) Clear CMOS.
    3) Configure RAM timings & enjoy.
    4) * In some cases, it is required to reset the Power Good signal (Due to the lack of standardization on the part of the motherboard manufacturer)
