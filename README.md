@@ -1,5 +1,5 @@
 # QIYIDA ZX99D3A4
-ZX99D3A4 BIOS for QIYIDA ZX99D3A4 Motherboard 04/18/2021
+ZX99D3A4 BIOS for QIYIDA ZX-99D3A4 Motherboard 04/18/2021
 
 <a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
@@ -14,7 +14,7 @@ ZX99D3A4 BIOS for QIYIDA ZX99D3A4 Motherboard 04/18/2021
 
 ## Coming soon!
 
-## ZX99D3A4 BIOS for QIYIDA ZX99D3A4 Motherboard
+## ZX99D3A4 BIOS for QIYIDA ZX-99D3A4 Motherboard
 Feature:
 
 * UEFI Only.
