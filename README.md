@@ -12,7 +12,17 @@ ZX99D3A4.BIN BIOS for QIYIDA ZX-99D3A4 Motherboard 04/18/2021
 * ##### Release ZX99D3A4 April-18-2021
 * ##### Builder: iEngineer
 
-## Coming soon!
+<div align="left">
+    <a href="https://github.com/BIOS-iEngineer/QIYIDA-ZX99D3A4/releases">
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/QIYIDA-ZX99D3A4/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/QIYIDA-ZX99D3A4/releases/latest">
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/QIYIDA-ZX99D3A4.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/QIYIDA-ZX99D3A4/blob/master/License">
+        <img src="https://img.shields.io/github/license/BIOS-iEngineer/QIYIDA-ZX99D3A4.svg?style=for-the-badge&logo=appveyor" alt="license"/>
+    </a>
+</div>
 
 ## ZX99D3A4 BIOS for QIYIDA ZX-99D3A4 Motherboard
 Feature:
