@@ -35,6 +35,12 @@ Supported hardware:
 
 * 4 channels RDIMM, LRDIMM, UDIMM DDR4 Memory up to 2400MHz & DDR3* up to 2133MHz (Only if CPU supports DDR3).
 
+## BIOS QIYIDA (Kllisre) ZX-99D3A4 Motherboard Review
+
+<a href="https://www.youtube.com/watch?v=yQ5LzOqLDDI">
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/ZX-9903A4.JPG" alt="QIYIDA ZX99D3A4 Motherboard BIOS Review" />
+</a>
+
 ## How to update Firmware:
 
    1) Burn the Firmware with programmer device. (e.g. EZP-2019)
