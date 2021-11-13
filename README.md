@@ -43,7 +43,7 @@ Supported hardware:
 
 ## How to update Firmware:
 
-   1) Burn the Firmware with programmer device. (e.g. EZP-2019)
+   1) Burn the Firmware with programmer device. (e.g. EZP-2019, CH341A..) [Instruction for CH341A](https://www.miyconst.com/Blog/View/2086/ch341a-minimal-usage-guide-how-to-read-and-write-a-motherboard-bios)
    2) Clear CMOS.
    3) Configure RAM timings & enjoy.
    4) * In some cases, it is required to reset the Power Good signal (Due to the lack of standardization on the part of the motherboard manufacturer)
