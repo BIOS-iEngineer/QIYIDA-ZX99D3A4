@@ -1,13 +1,6 @@
 # QIYIDA ZX-99D3A4
 ZX99D3A4.BIN BIOS for QIYIDA (Kllisre) ZX-99D3A4 Motherboard 04/18/2021
 
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
-</a>
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
-</a>
-
 ### <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/Miyconst/videos">Sponsored by ( Miyconst ) YouTube Channel </a>
 * ##### Release ZX99D3A4 April-18-2021
 * ##### Builder: iEngineer
